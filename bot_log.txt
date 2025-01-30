@@ -1,0 +1,6 @@
+2025-01-31 01:15:55,622 - INFO: Bot dihentikan.
+2025-01-31 01:19:16,952 - INFO: Bot dihentikan.
+[32m2025-01-31 01:20:47 - INFO: 🤖 Movie Twitter Bot started![0m
+[32m2025-01-31 01:21:32 - INFO: Bot dihentikan.[0m
+[32m2025-01-31 01:22:16 - INFO: 🤖 Movie Twitter Bot started![0m
+[32m2025-01-31 01:24:35 - INFO: Bot dihentikan.[0m
